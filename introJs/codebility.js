@@ -21,4 +21,5 @@ function solution(a) {
 solution(myArray);
 
 
-console.log("test github udah connect blm ke vscode")
+console.log("test github udah connect blm ke vscode!!!!!!")
+console.log("pusing jg belajar github")
