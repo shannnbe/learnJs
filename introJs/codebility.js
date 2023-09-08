@@ -19,3 +19,6 @@ function solution(a) {
 }
 
 solution(myArray);
+
+
+console.log("test github udah connect blm ke vscode")
